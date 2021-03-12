@@ -8,7 +8,7 @@
 #### How to use
 [How to run Adobe scripts](https://medium.com/photoshop-tips/how-to-run-script-465d45031de6) An excellent article on various methods to do so
 
-##### TL;DR
+##### Get Started
 1. Open Photoshop open and **select the desired text layer** to be transformed.
 2. Select File > Scripts > Browse and navigate to the ‘Scriptname.jsx’ file.
 
